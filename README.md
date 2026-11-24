@@ -1,4 +1,4 @@
-# Rehman Food 🍽️
+# Rehman Foods 🍽️
 
 **Taste That Wins Hearts!**
 
@@ -33,4 +33,4 @@ Hosted using GitHub Pages.
 
 ---
 
-**Rehman Food – Freshness, Quality & Great Taste!**
+**Rehman Foods – Freshness, Quality & Great Taste!**
